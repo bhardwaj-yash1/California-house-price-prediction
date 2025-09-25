@@ -108,9 +108,4 @@ The final model's predictions are, on average, off by approximately **$47,730**.
 
 ---
 
-```
 
-I can also create a **badge-style version with Docker, Python, Scikit-learn icons, and interactive visuals** like your DriftRadar README if you want it to look even more “professional GitHub ready.”  
-
-Do you want me to do that next?
-```
