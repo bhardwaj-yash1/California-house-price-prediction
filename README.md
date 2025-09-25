@@ -16,7 +16,7 @@ This project predicts **median house values in California districts** based on c
 - ✅ **Hyperparameter Tuning** – Using `GridSearchCV` and `RandomizedSearchCV` to find the best model configuration.  
 - ✅ **Model Evaluation** – In-depth analysis using cross-validation and final testing.  
 
-
+---markdown
 
 ## 🏗️ Project Workflow
 
