@@ -21,7 +21,7 @@ This project predicts **median house values in California districts** based on c
 ## 🏗️ Project Workflow
 
 ```
-
+```
 ```
   ┌─────────────────┐
   │  Data Ingestion │
@@ -33,8 +33,8 @@ This project predicts **median house values in California districts** based on c
   │   (EDA & Vis)   │
   └────────┬────────┘
            ▼
-           
-
+   ```        
+```
 ┌────────────────────────────┐
 │  Preprocessing Pipeline    │
 │ (Imputation, Scaling, OHE) │
