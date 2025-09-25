@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🏡 California Housing Price Predictor
 
 An **end-to-end machine learning project** demonstrating **data preprocessing, feature engineering, and model tuning** with Scikit-Learn pipelines.  
