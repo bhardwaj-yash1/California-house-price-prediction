@@ -1,6 +1,11 @@
 
 
 # 🏡 California Housing Price Predictor
+![Python](https://img.shields.io/badge/Python-3.5%2B-blue?logo=python)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green?logo=scikit-learn)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Viz-orange?logo=matplotlib)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+![License](https://img.shields.io/badge/license-MIT-lightgrey) 
 
 An **end-to-end machine learning project** demonstrating **data preprocessing, feature engineering, and model tuning** with Scikit-Learn pipelines.  
 This project predicts **median house values in California districts** based on census data.
